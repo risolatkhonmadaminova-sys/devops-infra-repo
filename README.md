@@ -8,4 +8,3 @@ This repository contains:
 - Dockerfile for containerization
 - Prometheus monitoring config
 - GitHub Actions workflow for CI
-# conflict
